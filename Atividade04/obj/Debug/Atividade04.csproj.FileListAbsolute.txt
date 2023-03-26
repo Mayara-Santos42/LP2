@@ -1,0 +1,11 @@
+C:\Users\zambo\OneDrive\Documents\Mayara\Atividades\Atividade04\bin\Debug\Atividade04.exe.config
+C:\Users\zambo\OneDrive\Documents\Mayara\Atividades\Atividade04\bin\Debug\Atividade04.exe
+C:\Users\zambo\OneDrive\Documents\Mayara\Atividades\Atividade04\bin\Debug\Atividade04.pdb
+C:\Users\zambo\OneDrive\Documents\Mayara\Atividades\Atividade04\obj\Debug\Atividade04.csproj.AssemblyReference.cache
+C:\Users\zambo\OneDrive\Documents\Mayara\Atividades\Atividade04\obj\Debug\Atividade04.csproj.SuggestedBindingRedirects.cache
+C:\Users\zambo\OneDrive\Documents\Mayara\Atividades\Atividade04\obj\Debug\Atividade04.Form1.resources
+C:\Users\zambo\OneDrive\Documents\Mayara\Atividades\Atividade04\obj\Debug\Atividade04.Properties.Resources.resources
+C:\Users\zambo\OneDrive\Documents\Mayara\Atividades\Atividade04\obj\Debug\Atividade04.csproj.GenerateResource.cache
+C:\Users\zambo\OneDrive\Documents\Mayara\Atividades\Atividade04\obj\Debug\Atividade04.csproj.CoreCompileInputs.cache
+C:\Users\zambo\OneDrive\Documents\Mayara\Atividades\Atividade04\obj\Debug\Atividade04.exe
+C:\Users\zambo\OneDrive\Documents\Mayara\Atividades\Atividade04\obj\Debug\Atividade04.pdb
