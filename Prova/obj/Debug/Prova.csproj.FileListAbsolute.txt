@@ -1,0 +1,10 @@
+C:\Users\0030482213030\Desktop\Prova\obj\Debug\Prova.csprojAssemblyReference.cache
+C:\Users\0030482213030\Desktop\Prova\obj\Debug\Prova.Properties.Resources.resources
+C:\Users\0030482213030\Desktop\Prova\obj\Debug\Prova.csproj.GenerateResource.cache
+C:\Users\0030482213030\Desktop\Prova\obj\Debug\Prova.csproj.CoreCompileInputs.cache
+C:\Users\0030482213030\Desktop\Prova\obj\Debug\Prova.frmPrncipal.resources
+C:\Users\0030482213030\Desktop\Prova\bin\Debug\Prova.exe.config
+C:\Users\0030482213030\Desktop\Prova\bin\Debug\Prova.exe
+C:\Users\0030482213030\Desktop\Prova\bin\Debug\Prova.pdb
+C:\Users\0030482213030\Desktop\Prova\obj\Debug\Prova.exe
+C:\Users\0030482213030\Desktop\Prova\obj\Debug\Prova.pdb
